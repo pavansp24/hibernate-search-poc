@@ -1,0 +1,12 @@
+org\hackathon\data\HealthRepo.class
+org\hackathon\ngo\pojo\HealthStatus.class
+org\hackathon\ngo\OrikaBeanMapper.class
+org\hackathon\ngo\spring\config\NgoApiConfiguration.class
+org\hackathon\service\HealthService.class
+org\hackathon\service\BookService.class
+org\hackathon\ngo\pojo\Book.class
+org\hackathon\data\BookRepo.class
+org\hackathon\ngo\pojo\Chapters.class
+org\hackathon\ngo\NgoApiApplication.class
+org\hackathon\controller\BookController.class
+org\hackathon\data\Health.class

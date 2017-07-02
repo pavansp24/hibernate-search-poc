@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ngo-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: iampr
+Implementation-Vendor-Id: org.hackathon.ngo.api
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/ngo-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
